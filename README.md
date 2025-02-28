@@ -9,11 +9,14 @@ A template to create JupyterBooks hosted on GitHub
 
 Steps to use:
 - install packages (requirements.txt)
-- create GitHub repo and push
+- create GitHub repo
 - enable GitHub Pages (`Settings` -> `Pages`, set `Source` to `GitHub Actions`)
+- `git push` files to your repo
+- edit for your needs
 
 
 
+This template book is hosted at [link](https://jewels2001.github.io/jupyter-book-clean/)
 
 
 ### comments
