@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: My sample book
-author: Jewels2001
+author: Jewels2001, The Jupyter Book Community
 logo: logo.png
 
 # Force re-execution of notebooks on each build.
